@@ -1,6 +1,8 @@
 #adding config.py file
 config.py
-random_numbers.ipynb
+
+random_numbers.ipynb 
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
