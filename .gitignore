@@ -2,6 +2,7 @@
 config.py
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 random_numbers.ipynb 
 
 config1.py
@@ -9,6 +10,9 @@ config1.py
 #adding config.py file
 random_numbers.ipynb
 >>>>>>> cba44e1a72c4968302b9488d3254d3fd87239e85
+=======
+
+>>>>>>> 4cbebe94e599e963d09ff97786aff9b185298d2a
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
